@@ -44,10 +44,15 @@ python mad_libs_game.py
 ### Astronaut Adventure:
 
 Enter a planet: Mars
+
 Enter an adjective (description): stellar
+
 Enter a noun (person, place, thing): falcon
+
 Enter a verb (ending with 'ing'): dancing
+
 Enter an adjective (description): eccentric
+
 Enter an adjective (description): amazed
 
 Last night, I dreamed I was an astronaut on a mission to Mars.
@@ -58,11 +63,17 @@ I was amazed!
 ### Birthday Party:
 
 Enter an adjective (description): amazing
+
 Enter another adjective (description): colorful
+
 Enter a noun (person, place, or thing): unicorn
+
 Enter a plural noun (persons, places, or things): balloons
+
 Enter a verb (ending with 'ing'): dancing
+
 Enter a adjective (description): joyful
+
 Enter a adjective (description): fun
 
 For my amazing birthday, we had a colorful cake shaped like a unicorn.
